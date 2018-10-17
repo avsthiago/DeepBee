@@ -1,5 +1,5 @@
-title: Cayman Blog Theme
-description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and GitHub Pages, with social/SEO features.
+title: DeepHive
+description: DeepHive is a project developed aiming to assist in the assessment of honeybee colonies using image processing.
 show_downloads: true
 
 baseurl: "/site-deephive" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
@@ -16,14 +16,14 @@ cayman-blog:
 theme: # leave it empty
 
 # social
-author: "Lore Pirri"
+author: "Thiago Alves"
 image: /thumbnail-jumbo.png
 twitter:
-  username: lorepirri
+  username: avsthiago
 #  site:
-facebook:
+#facebook:
   #publisher: 1592372034171500
   #profile_id: 1809805629
-  app_id: 1798910940422432 # cayman-blog
+  #app_id: 1798910940422432 # cayman-blog
   #authors: lorepirri
 #  admins:

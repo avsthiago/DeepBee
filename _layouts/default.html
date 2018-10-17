@@ -110,7 +110,7 @@
           </span>
         {% endif %}
         <!-- Contact icon -->
-        {% assign about_page = site.pages | where: "path", "about.md" | first %}
+        {% assign about_page = site.pages | where: "path", "contact.md" | first %}
         {% if about_page.title %}
           <span class="my-span-icon">
             <a href="{{ about_page.url | relative_url }}" aria-label="Contact" title="Contact {{ site.github.owner_name }}">

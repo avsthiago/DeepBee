@@ -1,13 +1,13 @@
 ---
-layout: post
+layout: default
 title: "Download Deephive"
 ---
 
 
-# [](#header-2)You can download DeepHive with the link below.
+# [](#header-3)You can download DeepHive with the link below.
 
 
-[Link to download the dataset]({{ site.baseurl }}/deephive).
+[Link to download DeepHive]({{ site.baseurl }}/downloads/deephive).
 
 How to use it..
 

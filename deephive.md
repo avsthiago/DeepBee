@@ -4,7 +4,7 @@ title: "Download Deephive"
 ---
 
 
-# [](#header-1)You Can download DeepHive with the link below.
+# [](#header-2)You can download DeepHive with the link below.
 
 
 [Link to download the dataset]({{ site.baseurl }}/deephive).

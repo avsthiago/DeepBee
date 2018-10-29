@@ -1,5 +1,5 @@
 title: DeepBee
-description: DeepHive is a project developed aiming to assist in the assessment of honeybee colonies using image processing.
+description: DeepBee is a project developed aiming to assist in the assessment of honeybee colonies using image processing.
 show_downloads: true
 
 baseurl: "/DeepBee" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.

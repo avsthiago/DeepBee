@@ -8,8 +8,6 @@
 layout: home
 ---
 
-Description...<br />
-Photos...
 
 ```
 Cite as:

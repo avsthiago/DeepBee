@@ -12,7 +12,7 @@ title: "Download DeepBee"
 
 [DeepBee Windows (GPU Version)](https://drive.google.com/open?id=1X8c9IhIZ04XHEPS4rsF3s_Dkiv0wEIFx).
 
-#How to use it..
+
 
 ```
 Cite as:

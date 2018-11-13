@@ -7,10 +7,10 @@ title: "Download DeepBee"
 # [](#header-4)Choose your version bellow.
 
 
-[DeepBee Windows (CPU Version)](https://cloud.ipb.pt/d/aa29c989ab1944aaa222/files/?p=/DeepBee_Win_CPU.zip&dl=1).
+[DeepBee Windows (CPU Version)](https://cloud.ipb.pt/d/aa29c989ab1944aaa222/files/?p=/DeepBee_WIN_CPU.rar&dl=1).
 
 
-[DeepBee Windows (GPU Version)](https://drive.google.com/open?id=1X8c9IhIZ04XHEPS4rsF3s_Dkiv0wEIFx).
+[DeepBee Windows (GPU Version)](https://drive.google.com/open?id=1MALwO7H89ud9wlY9D5oEMxO4MMxm0bLK).
 
 
 

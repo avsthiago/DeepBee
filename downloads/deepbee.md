@@ -31,3 +31,4 @@ Cite as:
         month={Sep}, 
         pages={90}}
 ```
+You can unzip DeepBee using a free tool such as [WinRar](https://www.win-rar.com/download.html).

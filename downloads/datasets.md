@@ -23,6 +23,8 @@ title: "Download Dataset"
 
 
 ```
+Cite as:
+
 Thiago S. Alves, M. Alice Pinto, Paulo Ventura, Cátia J. Neves, David G. Biron, Arnaldo C. Junior, Pedro L. De Paula Filho, Pedro J. Rodrigues,
 Automatic detection and classification of honey bee comb cells using deep learning,
 Computers and Electronics in Agriculture,

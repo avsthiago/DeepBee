@@ -3,10 +3,24 @@ layout: default
 title: "Download Dataset"
 ---
 
-# [](#header-4)You can download our datasets in the links below.
+# [](#header-4)You can download our models and datasets in the links below.
 
 
-[Link to download the dataset (SOON)]({{ site.baseurl }}/downloads/datasets).
+
+### Models
+
+* [Classification](https://github.com/AvsThiago/DeepBee-source/tree/release-0.1/src/DeepBee/software/model)
+* [Segmentation](https://github.com/AvsThiago/DeepBee-source/tree/release-0.1/src/DeepBee/software/model)
+
+### Datasets
+
+* Classification
+    * Train: [images](https://github.com/AvsThiago/DeepBee-source/tree/release-0.1/src/data), [labels](https://github.com/AvsThiago/DeepBee-source/tree/release-0.1/src/data/resources);
+    * Test: [images](https://github.com/AvsThiago/DeepBee-source/tree/release-0.1/src/data/resources), [labels](https://github.com/AvsThiago/DeepBee-source/tree/release-0.1/src/data/resources);
+* Segmentation
+    * [Train + Test](https://data.mendeley.com/datasets/db35fj73x5/1)
+
+
 
 ```
 Thiago S. Alves, M. Alice Pinto, Paulo Ventura, Cátia J. Neves, David G. Biron, Arnaldo C. Junior, Pedro L. De Paula Filho, Pedro J. Rodrigues,
